@@ -1,0 +1,1 @@
+[{"action": "Shell Emulator initialized with path test_filesystem.zip", "cwd": "root"}, {"action": "tail command executed on test_file.txt", "cwd": "root"}]
